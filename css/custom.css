@@ -1,0 +1,44 @@
+.heading {
+    color: #5a866f;
+}
+
+.card {
+    cursor: pointer;
+}
+
+p {
+    font-size: 17px;
+}
+
+.navbar-expand-lg .navbar-collapse {
+    justify-content: flex-end;
+}
+
+.nav-item {
+    margin: 0 6px;
+}
+
+.nav-item:last-child {
+    background-color: #5a866fa3;
+    border-radius: 30px;
+    padding: 0 20px;
+}
+
+.common-btn {
+    border: 1px solid #5a866f49;
+    background-color: #5a866fa3;
+    font-weight: 500;
+    color: rgba(0, 0, 0, 0.767);
+}
+
+.common-btn:hover {
+    background-color: #5a866f49;
+    transition: all 0.3s linear;
+    color: rgba(0, 0, 0, 0.767);
+    letter-spacing: 1px;
+}
+
+.logo {
+    height: 90px;
+    width: 90px;
+}
